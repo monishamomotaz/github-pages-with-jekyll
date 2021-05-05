@@ -1,7 +1,6 @@
 ---
 title: "Top Blog"
 date: 2021-05-05
----
 theme: minima
 title: "Very First Try"
 author: Monisha Momotaz
@@ -13,3 +12,4 @@ twitter_username: monisha.momotaz # DO NOT include the @ character, or else the 
 github_username:  monishamomotaz # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+---
